@@ -5,7 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
-  - CharacterAttack
+  - Enemy
+  - EnemyAttack
+  - PlayerAttack
   layers:
   - Default
   - TransparentFX
